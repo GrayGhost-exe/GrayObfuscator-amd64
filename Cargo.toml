@@ -1,0 +1,8 @@
+[package]
+name = "grayobfus"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+goblin = "0.10.7"
+rand = "0.8"
