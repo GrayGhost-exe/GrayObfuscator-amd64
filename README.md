@@ -17,7 +17,7 @@ The project processes 64-bit Windows executables (`.exe`) to mask their underlyi
 * **ASLR Stripping:** Clears the `DYNAMIC_BASE` header flag to guarantee predictable base memory addressing.
 
 ### Medium Article
-[Click here to open the article](https://medium.com)
+[Click here to open the article](https://medium.com/@grayghost.ctf/grayobfuscator-amd64-next-gen-portable-executable-obfuscation-in-rust-0a5cf259bd1a?postPublishedType=initial)
 
 ---
 
